@@ -1,0 +1,9 @@
+C:\Users\Pete\Documents\GitHub\room-area\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Pete\Documents\GitHub\room-area\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Pete\Documents\GitHub\room-area\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Pete\Documents\GitHub\room-area\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Pete\Documents\GitHub\room-area\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Pete\Documents\GitHub\room-area\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Pete\Documents\GitHub\room-area\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Pete\Documents\GitHub\room-area\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Pete\Documents\GitHub\room-area\Paint\Paint\obj\Debug\Paint.Paint.resources
